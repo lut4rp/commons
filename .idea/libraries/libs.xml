@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpclient-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpcore-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpmime-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/java-mwapi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
